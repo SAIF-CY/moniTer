@@ -1,6 +1,6 @@
 # BIOS Monitor
 
-Monitor de sistema em tempo real para Linux com estética **retro BIOS / hacker old school** (anos 90). Interface TUI construída com **ncurses**, coleta de dados em thread separada via **pthreads**.
+Monitor de sistema em tempo real para Linux com estética **retro BIOS old school** (anos 90). Interface TUI construída com **ncurses**, coleta de dados em thread separada via **pthreads**.
 
 ```
 ┌─ Hardware Summary ─────────────┐ ┌─ System Status ────────────────┐
